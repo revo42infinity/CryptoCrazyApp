@@ -39,8 +39,9 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         getData()
         
         //26
-        let myString = "ddd"
+        let myString = "cccddd"
         myString.printMyName()
+        print("can")
         
        //19. kodda asagiyi aldik baska yere yazdik o yuzden inaktif ettim
        /* //9
