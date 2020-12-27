@@ -16,6 +16,7 @@
 		EB3B3D91258F9DA700FAAFC3 /* CryptoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3B3D90258F9DA700FAAFC3 /* CryptoTableViewCell.swift */; };
 		EB3B3D99258FA2DB00FAAFC3 /* CryptoCurrency.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3B3D98258FA2DB00FAAFC3 /* CryptoCurrency.swift */; };
 		EB3B3D9C258FA3E600FAAFC3 /* WebService.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3B3D9B258FA3E600FAAFC3 /* WebService.swift */; };
+		EBFB62C72598ACF100C5C15E /* CryptoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBFB62C62598ACF100C5C15E /* CryptoViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		EB3B3D90258F9DA700FAAFC3 /* CryptoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoTableViewCell.swift; sourceTree = "<group>"; };
 		EB3B3D98258FA2DB00FAAFC3 /* CryptoCurrency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoCurrency.swift; sourceTree = "<group>"; };
 		EB3B3D9B258FA3E600FAAFC3 /* WebService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebService.swift; sourceTree = "<group>"; };
+		EBFB62C62598ACF100C5C15E /* CryptoViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		EB3B3D96258FA2AC00FAAFC3 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				EBFB62C62598ACF100C5C15E /* CryptoViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 				EB3B3D9C258FA3E600FAAFC3 /* WebService.swift in Sources */,
 				EB3B3D91258F9DA700FAAFC3 /* CryptoTableViewCell.swift in Sources */,
 				EB3B3D80258F9C2C00FAAFC3 /* ViewController.swift in Sources */,
+				EBFB62C72598ACF100C5C15E /* CryptoViewModel.swift in Sources */,
 				EB3B3D7C258F9C2C00FAAFC3 /* AppDelegate.swift in Sources */,
 				EB3B3D99258FA2DB00FAAFC3 /* CryptoCurrency.swift in Sources */,
 				EB3B3D7E258F9C2C00FAAFC3 /* SceneDelegate.swift in Sources */,
