@@ -9,9 +9,9 @@ import UIKit
 
 class CryptoTableViewCell: UITableViewCell {
 
-    @IBOutlet weak var currencyText: UILabel!
+    @IBOutlet weak var currencyLabel: UILabel!
     
-    @IBOutlet weak var priceText: UILabel!
+    @IBOutlet weak var priceLabel: UILabel!
     
     override func awakeFromNib() {
         super.awakeFromNib()
